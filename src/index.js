@@ -2,7 +2,8 @@ const express = require('express')
 const app = express()
 const port = 3000
 const router = require('../routes')
-const fs = require('fs')const path = require('path')
+const fs = require('fs')
+const path = require('path')
 
 //Define paths for Express config
 const publicDirectoryPath = path.join(__dirname, '../public')
