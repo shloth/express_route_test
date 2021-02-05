@@ -1,2 +1,2 @@
-./node_modules/*
-./contrast_security.yaml
+/node_modules/*
+/contrast_security.yaml
